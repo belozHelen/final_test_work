@@ -1,0 +1,5 @@
+/Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
