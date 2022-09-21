@@ -3,3 +3,13 @@
 /Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
 /Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
 /Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/bin/Debug/net6.0/Task
+/Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/bin/Debug/net6.0/Task.deps.json
+/Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/bin/Debug/net6.0/Task.dll
+/Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/bin/Debug/net6.0/Task.pdb
+/Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/obj/Debug/net6.0/Task.dll
+/Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/obj/Debug/net6.0/Task.pdb
+/Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/elenagrigoreva/Documents/GitHub/final_test_work/Task/obj/Debug/net6.0/ref/Task.dll
